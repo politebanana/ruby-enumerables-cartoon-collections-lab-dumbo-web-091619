@@ -5,7 +5,8 @@ def roll_call_dwarves# code an argument here
   Bashful
   Grumpy
   Sneezy
-  
+  Sleepy
+  Happy
   ]
 end
 
