@@ -14,7 +14,6 @@ def roll_call_dwarves# code an argument here
     puts "#{index + 1}. #{dwarf}"
   end
 end
-end
 
 def summon_captain_planet# code an argument here
   # Your code here
