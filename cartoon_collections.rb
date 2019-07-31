@@ -1,6 +1,9 @@
 def roll_call_dwarves# code an argument here
   # Your code here
   dwarf_names = [Doc
+  Dopey
+  Bashful
+  Grumpy
   ]
 end
 
